@@ -1,7 +1,6 @@
 - Feature Name: (fill me in with a unique ident, `my_awesome_feature`)
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
 - RFC PR: [comunion/rfcs#0000](https://github.com/comunion-io/rfcs/pull/0000)
-- Rust Issue: [comunion/rust#0000](https://github.com/comunion-io/rust/issues/0000)
 
 # Summary
 [summary]: #summary
